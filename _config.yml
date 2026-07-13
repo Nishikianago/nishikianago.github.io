@@ -1,0 +1,5 @@
+title: ncon
+url: "https://kthsengidev.github.io" # the base hostname & protocol for your site
+baseurl: "/ncon"
+plugins:
+  - jekyll-sitemap
